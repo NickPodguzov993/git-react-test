@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>New paragraph</p>
+        <div>удалить</div>
       </header>
     </div>
   );
