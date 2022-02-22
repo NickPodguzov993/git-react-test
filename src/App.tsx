@@ -20,6 +20,10 @@ function App() {
         </a>
         <p>New paragraph</p>
         <p>New paragraph</p>
+        <h3>head3</h3>
+        <h5>1</h5>
+        <h5>2</h5>
+        <h5>3</h5>
       </header>
     </div>
   );
