@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <div>div</div>
+        <p>новый параграф</p>
       </header>
     </div>
   );
